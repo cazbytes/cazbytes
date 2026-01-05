@@ -14,5 +14,5 @@
 - SQL  
 - Git & GitHub  
 
-This account documents my learning journey as I grow my skills
-and build confidence in software development.
+## Where to join me
+- cazbyte01@gmail.com
